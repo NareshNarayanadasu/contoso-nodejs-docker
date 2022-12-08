@@ -3,7 +3,7 @@ import Head from "next/head";
 const Header = () =>
     <Head>
         <title>
-            Contoso spaces by naresh
+            Contoso spaces by Naresh
         </title>
     </Head>;
 
